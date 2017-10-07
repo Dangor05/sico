@@ -1,2 +1,2 @@
-# sico
-Mas alla de la vr BETA
+# svp
+Mas alla de la primera version definitiva
